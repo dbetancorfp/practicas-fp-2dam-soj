@@ -1,6 +1,6 @@
 # UT3-A2 - Sostenibilidad y ODS en el desarrollo de aplicaciones web
 
-<a class="md-button md-button--primary" href="ut3-a2-sostenibilidad-y-ods-en-el-desarrollo-de-aplicaciones-web.pdf">Descargar práctica en PDF</a>
+<a class="md-button md-button--primary" href="ut3-a2-sostenibilidad-y-ods-en-el-desarrollo-de-aplicaciones-web.pdf">&#x2B07; Descargar pr&aacute;ctica en PDF</a>
 
 ## 1. Resultado de aprendizaje, contenido y criterios de evaluación
 
